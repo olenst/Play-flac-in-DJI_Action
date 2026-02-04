@@ -4,5 +4,5 @@ The tool is based on ffmpeg
 
 在大疆Action内播放无损音乐，将FLAC文件转换为action可以识别的视频文件，并且支持自动在所选的文件夹内编号和生成LRF预览文件。
 
-**目前仅在Action5Pro机型上测试**<br>
+**目前仅在Action5Pro机型上测试成功**<br>
 **Currently only tested on Action5Pro**
